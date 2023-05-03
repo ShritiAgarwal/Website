@@ -1,22 +1,21 @@
 <!DOCTYPE html>
 <html>
-
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <!-- Boxicons -->
+ 
   <link href="https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css" rel="stylesheet" />
 
-  <!-- Fontawesome -->
+  
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
-  <!-- Custom StyleSheet -->
+  
   <link rel="stylesheet" href="./style.css" />
-  <title>ASHALI ONLINE STORE</title>
+  <title>WEBSITE</title>
 </head>
 
 <body>
   
-  <!-- HEADER -->
+
 
  <header class="header">
   <nav>
@@ -30,7 +29,7 @@
     </nav>
     <!-- Intro -->
     <div class="intro">
-     <h1>TRY OUT THESE LEATHER PRODUCTS</h1>
+     <h1>TRY OUT THESE PRODUCTS</h1>
           <h2>
             Up to</br>
             <span class="dis">30% 
@@ -39,25 +38,25 @@
             New Year Season
           </h2>
           <h3>From 1st Jan to 31st Jan</h3>
-          <a href="#" class="btn">SHOP NOW</a>
+          <a href="#" class="btn">SHOP NOW!</a>
         </div>
       
   </header>
 
-  <!--Benefits  -->
+ 
   <section class="section benefits">
     <div class="benefit-center box">
       <div class="benefit">
         <span class="icon"><i class="bx bx-purchase-tag"></i></span>
-        <h4>Free Shipping</h4>
-        <span class="text">Capped at $16 per order</span>
+        <h4>Free Shipping!</h4>
+        <span class="text">Capped at $20 per order</span>
       </div>
 
      
       <div class="benefit">
         <span class="icon"><i class="bx bx-book-reader"></i></span>
         <h4>10-Day Returns</h4>
-        <span class="text">Shop without any fear</span>
+        <span class="text">Shop without any hassle</span>
       </div>
 
       <div class="benefit">
@@ -68,10 +67,10 @@
     </div>
   </section>
 
-  <!-- New Arrivals -->
+  
   <section class="section">
     <div class="h">
-      <h1><span>New</span> Arrivals</h1>
+      <h1><span>New</span> NEW Arrivals</h1>
     </div>
     <div class="ac-center box">
       <div class="ac">
@@ -135,7 +134,7 @@
     </div>
   </section>
 
-  <!-- Shop By Category -->
+  
   <section class="section">
     <div class="h">
       <h1><span>Shop By</span> Categories</h1>
@@ -174,7 +173,7 @@
           <i class="bx bxs-star"></i>
           <i class="bx bx-star"></i>
         </div>
-        <div class="price">LKR 8500</div>
+        <div class="price">LKR 9500</div>
       </div>
 
       <div class="ac">
@@ -189,7 +188,7 @@
           <i class="bx bxs-star"></i>
           <i class="bx bx-star"></i>
         </div>
-        <div class="price">LKR 5000</div>
+        <div class="price">LKR 50000</div>
       </div>
 
       <div class="ac">
@@ -204,7 +203,7 @@
           <i class="bx bxs-star"></i>
           <i class="bx bx-star"></i>
         </div>
-        <div class="price">LKR 1200</div>
+        <div class="price">LKR 1000</div>
       </div>
       <div class="ac">
         <div class="img-cover">
@@ -218,7 +217,7 @@
           <i class="bx bxs-star"></i>
           <i class="bx bx-star"></i>
         </div>
-        <div class="price">LKR 2000</div>
+        <div class="price">LKR 3000</div>
       </div>
       <div class="ac">
         <div class="img-cover">
@@ -260,7 +259,7 @@
           <i class="bx bxs-star"></i>
           <i class="bx bx-star"></i>
         </div>
-        <div class="price">LKR 5600</div>
+        <div class="price">LKR 5000</div>
       </div>
       <div class="ac">
         <div class="img-cover">
@@ -279,7 +278,7 @@
     </div>
   </section>
 
-        <!-----footer-------------------->
+       
         <section id="footer">
             
             <div class="foot">
