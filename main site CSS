@@ -17,15 +17,15 @@ body {
   font-family: "Poppins", sans-serif;
   font-size: 18px;
   color: black;
-  background-color: whitesmoke;
+  background-color: white;
 }
 
 img {
-  max-width: 100%;
+  max-width: 90%;
 }
 
 .box {
-  max-width: 1824px;
+  max-width: 182px;
   margin: 0 auto;
 }
 
@@ -37,7 +37,7 @@ img {
 
 
 
-/* HEADER */
+
  .logob{
  width: 100px;
  height: 80px;
@@ -49,7 +49,7 @@ img {
   margin: auto;
   padding: 20px 0;
   display: flex;
-  align-items: center;
+  align-items: left;
   justify-content: space-between;
  }
 
@@ -101,7 +101,7 @@ img {
   
   
 
-/* Intro */
+
 .intro {
   height: calc(100vh - 112px);
   overflow: hidden;
@@ -123,7 +123,7 @@ img {
 
 .dis {
   display: inline-block;
-  font-size: 40px;
+  font-size: 50px;
   color: #ff4321;
 }
 
@@ -164,7 +164,7 @@ img {
 
 
 
-/* Section */
+
 .section {
   padding: 160px 0 0 0;
 }
@@ -198,7 +198,7 @@ img {
   color: #777;
 }
 
-/* New Arrivals */
+
 .h {
   font-size: 3rem;
   text-align: center;
@@ -335,17 +335,17 @@ img {
   }
 }
     
-    /*footer*/
+    
     #footer {
       
         box-sizing: border-box;
         font-family: 'Poppins',sans-serif;
         position: relative;
-        min-height: 50vh;
+        min-height: 60vh;
         padding: 50px 100px;
         background-color: black;
         justify-content: center;
-        align-items: center;
+        align-items: left;
         flex-direction: column;
      }
     
