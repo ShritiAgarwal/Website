@@ -1,21 +1,21 @@
 /* Google Font CDN Link */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 *{
-  margin: 0;
-  padding: 0;
+  margin: 1;
+  padding: 1;
   box-sizing: border-box;
-  font-family: "Poppins" , sans-serif;
+  font-family: "Poppins" ;
 }
 body{
   min-height: 100vh;
-  width: 100%;
+  width: 80%;
   background: #c8e8e9;
   display: flex;
-  align-items: center;
+  align-items: left;
   justify-content: center;
 }
 .container{
-  width: 85%;
+  width: 95%;
   background: #fff;
   border-radius: 6px;
   padding: 20px 60px 30px 40px;
@@ -23,25 +23,25 @@ body{
 }
 .container .content{
   display: flex;
-  align-items: center;
+  align-items: left;
   justify-content: space-between;
 }
 .container .content .left-side{
-  width: 25%;
-  height: 100%;
+  width: 35%;
+  height: 90%;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: left;
   justify-content: center;
-  margin-top: 15px;
+  margin-top: 25px;
   position: relative;
 }
 .content .left-side::before{
   content: '';
   position: absolute;
-  height: 70%;
-  width: 2px;
-  right: -15px;
+  height: 80%;
+  width: 3px;
+  right: -10px;
   top: 50%;
   transform: translateY(-50%);
   background: #afafb6;
